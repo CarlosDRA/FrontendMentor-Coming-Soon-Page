@@ -1,0 +1,22 @@
+@media screen and (min-width: 426px) {
+    .logo{
+        img{
+            height: 100%;
+        }
+    }
+    
+    .background-img{
+        width: 100%;
+        max-width: 768px;
+        height: 350px;
+        background-image: url(/assets/images/hero-desktop.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .main__content{
+        margin: 40px 15vw;
+        text-align: center;;
+    }
+}
