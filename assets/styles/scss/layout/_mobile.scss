@@ -1,0 +1,21 @@
+.background-img{
+    height: 250px;
+    width: 100%;
+    max-width: 425px;
+    background-image: url(/assets/images/hero-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    margin: 30px;
+
+    img{
+        height: 25px;
+    }
+}
+
+.main__content{
+    margin: 40px;
+    text-align: center;
+}

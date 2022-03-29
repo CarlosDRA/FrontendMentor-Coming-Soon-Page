@@ -1,0 +1,25 @@
+@use "../abstracts/variables" as c;
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 8px;
+    color: c.$dark-grayish-red;
+
+    .text-red{
+        font-weight: 300;
+    }
+}
+
+.text{
+    line-height: 25px;
+}
+
+.text-red{
+    color: c.$desaturated-red;
+}
