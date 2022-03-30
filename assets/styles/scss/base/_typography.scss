@@ -23,3 +23,11 @@
 .text-red{
     color: c.$desaturated-red;
 }
+
+
+@media screen and (min-width: 1024px) {
+    .title{
+        font-size: 4rem;
+        line-height: 70px;
+    }
+}

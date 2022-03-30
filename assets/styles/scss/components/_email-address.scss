@@ -24,7 +24,9 @@
     position: absolute;
     top: 0;
     right: -2px;
-    width: 70px;
+    width: 7vw;
+    min-width: 70px;
+    max-width: 120px;
     height: calc(100% + 1px);
     border-radius: 50px;
     border: 0;
